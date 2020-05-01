@@ -1,8 +1,8 @@
 # Rutas de aprendizaje
 
 ### Frontend web:
-**Lenguajes disponibles para aprender**: javascript, css, html
-**Requerido aprender**: javascript, css, html
+**Lenguajes disponibles para aprender**: javascript, css, html\
+**Requerido aprender**: javascript, css, html\
 **Nivel de dificultad**: 
 - css - bajo
 - html - bajo
@@ -16,8 +16,8 @@
 
 	
 ### Backend:
-**Lenguajes disponibles para aprender**: python, php, javascript
-**Requerido aprender**: cualquiera de los mencionados arriba
+**Lenguajes disponibles para aprender**: python, php, javascript\
+**Requerido aprender**: cualquiera de los mencionados arriba\
 **Nivel de dificultad**: 
 - python - medio
 - php - medio
@@ -34,8 +34,8 @@
     - [php](https://www.youtube.com/watch?v=OK_JCtrrv-c)
 
 ### Unity:
-**Lenguajes disponibles para aprender**: C#, javascript
-**Requerido aprender**: cualquiera de los mencionados arriba y adicional aprender a utilizar el motor de unity
+**Lenguajes disponibles para aprender**: C#, javascript\
+**Requerido aprender**: cualquiera de los mencionados arriba y adicional aprender a utilizar el motor de unity\
 **Nivel de dificultad**:
 - C# - medio (recomendado)
 - javascript - medio
@@ -50,8 +50,8 @@
 		
 
 ### Mobile developer :
-**Lenguajes disponibles para aprender**: java ó kotlin (para android), swift ó objective-c (para iOS), react-native (para ambos sistemas)
-**Requerido aprender**: cualquiera de los mencionados arriba
+**Lenguajes disponibles para aprender**: java ó kotlin (para android), swift ó objective-c (para iOS), react-native (para ambos sistemas)\
+**Requerido aprender**: cualquiera de los mencionados arriba\
 **Nivel de dificultad**: 
 - java - alto
 - kotlin - medio
