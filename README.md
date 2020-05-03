@@ -10,9 +10,9 @@
 
 **Curso para iniciar**: 
 - Español:
-	[javascript](https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G)
+	[javascript + html + css](https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G)
 - Inglés:
-	[javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+	[javascript + html + css](https://www.youtube.com/watch?v=3JluqTojuME)
 
 	
 ### Backend:
